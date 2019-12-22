@@ -2,7 +2,10 @@
 
 You can download the latest version of the app from the [Releases Section](https://github.com/visnkmr/timenetspeed/releases) or [direct download here](https://github.com/visnkmr/timenetspeed/releases/download/0.1/app-release.apk)
 
-Our latest version is also available via [Amazon Appstore](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/) and [Google PlayStore](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed).
+The latest version is also available via
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed)
+
+ [Amazon Appstore](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/)
 
 # Please Note:
 
