@@ -1,8 +1,8 @@
 <!-- ### Displays Live NetSpeed &amp; Time always on your Android TV/ Fire TV screen. Also monitor Free Memory, Uptime and Session Data Usage in Useful Information Screen. -->
-
 <!-- Available for Download @ -->
-
-**Features:**  
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed) [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" data-canonical-src="" alt-text="" width="153" />](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/)  
+  
+ **Features:**  
 ✓ Monitor network speed while using your device.  
 ✓ Useful Information Screen to monitor Free Memory, Uptime and Session Data Usage .  
   
@@ -25,6 +25,4 @@ Some Fire TV(s), Android device(s), TV(s) lack the settings option to be able to
 Help to enable overlay @ https://visnkmr.github.io/overlay-permission-help  
 More info, help @ https://t.me/vishnunkmr  
   
-**Libraries used: AppCenter SDK**  
-  
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed) [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" data-canonical-src="" alt-text="" width="153" />](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/)
+**Libraries used: AppCenter SDK**
