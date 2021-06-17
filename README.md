@@ -1,4 +1,4 @@
-### Displays Live NetSpeed &amp; Time always on your Android TV/ Fire TV screen. Also monitor Free Memory, Uptime and Session Data Usage in Useful Information Screen.
+<!-- ### Displays Live NetSpeed &amp; Time always on your Android TV/ Fire TV screen. Also monitor Free Memory, Uptime and Session Data Usage in Useful Information Screen. -->
 
 Available for Download @
 
