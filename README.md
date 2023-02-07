@@ -17,7 +17,7 @@ A rust daemon that saves the total data used in bytes every minute and provides 
 A python GUI that can be moved freely to anywhere on screen and closed when not required.  
 
 ## Android version:
-Android version also has Useful Information Screen to monitor Free Memory, Uptime and Session Data Usage .  
+Available @ [Play Store](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed), [Amazon Appstore](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/). Android version also has Useful Information Screen to monitor Free Memory, Uptime and Session Data Usage .  
   
 **Customisation offered:**  
 ✓ 12 hour/ 24 hour clock.  
@@ -25,9 +25,4 @@ Android version also has Useful Information Screen to monitor Free Memory, Uptim
 ✓ Adjust Size of Time and speed meter.  
   
 *Please Note:  
-Some Fire TV(s), Android device(s), TV(s) lack the settings option to be able to enable Overlay permission for any app, hence, Unless permission is allowed manually the overlays won't be displayed. Hence, shows you these details on opening the app.*  
-  
-Help to enable overlay @ https://visnkmr.github.io/overlay-permission-help  
-
-[Play Store](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed)  
-[Amazon Appstore](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/)  
+Some Fire TV(s), Android device(s), TV(s) require additional [steps to enable overlay](https://visnkmr.github.io/overlay-permission-help) since they lack the settings option to be able to enable Overlay permission for any app, hence, Unless permission is allowed manually the overlays won't be displayed. Hence, shows you these details on opening the app.*  
