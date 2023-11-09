@@ -9,13 +9,8 @@ Report Issues, Bugs, Feature Suggestion in github issues section [here](https://
 **What does the app do?**  
 It adds an overlay that shows mobile data, Ethernet or WiFi network speed. The overlay shows the rate at which your data is being consumed. The indicator updates in real-time showing the current network speed at all times.  
 
-## PC version (Open Source):
-There are 2 PC versions available one that use http server and other that uses server send events protcol(sse).
-Has two components:  
-### [SSE Server](https://github.com/visnkmr/netspeed_server/releases/latest) || [HTTP Server](https://github.com/visnkmr/netspeed_server_http/releases/latest)  
-A rust server that saves the total data used in bytes every minute and provides a json endpoint that the GUI fetches the data from. You can choose to specify an interface name if required.  
-### [GUI](https://github.com/visnkmr/ns_gui/releases/latest)  
-A python GUI that can be moved freely to anywhere on screen and closed when not required.  
+## PC version (Open Source)
+Available @ [Github](https://github.com/visnkmr/netspeed_pc)
 
 ## Android version:
 Available @ [Play Store](https://play.google.com/store/apps/details?id=visnkmr.apps.timenetspeed), [Amazon Appstore](https://www.amazon.com/Vishnu-N-K-Speed-Monitor/dp/B0786KC4C1/). Android version also has Useful Information Screen to monitor Free Memory, Uptime and Session Data Usage .  
