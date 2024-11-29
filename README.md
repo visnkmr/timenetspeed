@@ -1,4 +1,5 @@
 <!-- ### Displays Live NetSpeed &amp; Time always on your Android TV/ Fire TV screen. Also monitor Free Memory, Uptime and Session Data Usage in Useful Information Screen. -->
+[![Github All Releases](https://img.shields.io/github/downloads/visnkmr/timenetspeed/total.svg)]()  
 <!-- Available for Download @ -->
 Report Issues, Bugs, Feature Suggestion in github issues section [here](https://github.com/visnkmr/timenetspeed/issues) or [telegram](https://vishnunkmr.t.me)  
   
